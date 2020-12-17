@@ -1,18 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Icon</title>
-    <defs>
-        <polygon id="path-1" points="86.5 0 173 411 0 411"></polygon>
-    </defs>
-    <g id="Icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Horn" transform="translate(170.000000, 51.000000)">
-            <mask id="mask-2" fill="white">
-                <use xlink:href="#path-1"></use>
-            </mask>
-            <use id="Mask" fill="#FFFFFF" xlink:href="#path-1"></use>
-            <rect id="Rectangle" fill="#000000" mask="url(#mask-2)" x="20" y="92" width="132" height="42"></rect>
-            <rect id="Rectangle" fill="#000000" mask="url(#mask-2)" x="-11" y="306" width="195" height="42"></rect>
-            <rect id="Rectangle" fill="#000000" mask="url(#mask-2)" x="20" y="199" width="132" height="42"></rect>
+    <title>Logo White on Transparent</title>
+    <g id="Logo-White-on-Transparent" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Horn" transform="translate(170.000000, 51.000000)" fill="#FFFFFF">
+            <path d="M159.741,348 L173,411 L0,411 L13.259,348 L159.741,348 Z M137.221,241 L150.901,306 L22.099,306 L35.779,241 L137.221,241 Z M114.702,134 L128.382,199 L44.618,199 L58.298,134 L114.702,134 Z M86.5,0 L105.863,92 L67.137,92 L86.5,0 Z" id="Combined-Shape"></path>
         </g>
     </g>
 </svg>
